@@ -7,60 +7,57 @@
     <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-8 mb-16">
       <!-- Column 1 -->
       <div class="flex flex-col gap-4">
-        <h4 class="font-semibold text-gray-900 text-sm">Marketing</h4>
+        <h4 class="font-semibold text-gray-900 text-sm">For Employers</h4>
         <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Overview</a>
-        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Journeys</a>
-        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Personalization</a>
-        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Analytics</a>
-        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Campaigns</a>
+        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">How It Works</a>
+        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Pricing</a>
+        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Case Studies</a>
+        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">ROI Calculator</a>
       </div>
 
       <!-- Column 2 -->
       <div class="flex flex-col gap-4">
-        <h4 class="font-semibold text-gray-900 text-sm">Data</h4>
+        <h4 class="font-semibold text-gray-900 text-sm">For Employees</h4>
         <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Overview</a>
-        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">CDP</a>
-        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Integration</a>
-        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Segmentation</a>
-        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Export & Sync</a>
-        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Governance</a>
+        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Access Relief</a>
+        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">How It Works</a>
+        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">FAQs</a>
+        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Financial Wellness</a>
       </div>
 
       <!-- Column 3 -->
       <div class="flex flex-col gap-4">
-        <h4 class="font-semibold text-gray-900 text-sm">Automation</h4>
-        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Overview</a>
-        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Workflows</a>
-        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Content</a>
-        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Approvals</a>
-        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Dynamic Content</a>
+        <h4 class="font-semibold text-gray-900 text-sm">Platform</h4>
+        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Integrations</a>
+        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Security</a>
+        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Compliance</a>
+        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">API Docs</a>
       </div>
 
       <!-- Column 4 -->
       <div class="flex flex-col gap-4">
-        <h4 class="font-semibold text-gray-900 text-sm">Channels</h4>
-        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Overview</a>
-        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Email</a>
-        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">SMS</a>
-        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Push Notifications</a>
-        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">WhatsApp</a>
-        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">RCS</a>
+        <h4 class="font-semibold text-gray-900 text-sm">Company</h4>
+        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">About Us</a>
+        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Team</a>
+        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Careers</a>
+        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Press</a>
+        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Contact</a>
       </div>
 
        <!-- Column 5 -->
       <div class="flex flex-col gap-4">
-        <h4 class="font-semibold text-gray-900 text-sm">Developer</h4>
-        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Email API</a>
-        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">WhatsApp API</a>
-        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">SMS API</a>
-        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Numbers API</a>
-        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Voice API</a>
+        <h4 class="font-semibold text-gray-900 text-sm">Resources</h4>
+        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Blog</a>
+        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Guides</a>
+        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Webinars</a>
+        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Research</a>
+        <a href="#" class="text-sm text-gray-500 hover:text-gray-900">Support</a>
       </div>
 
        <!-- Column 6 (Newsletter) -->
       <div class="flex flex-col gap-4 lg:col-span-1">
         <h4 class="font-semibold text-gray-900 text-sm">Newsletter</h4>
-        <p class="text-sm text-gray-500">Stay up to date with Bird through weekly updates to your inbox.</p>
+        <p class="text-sm text-gray-500">Stay up to date with Patch through weekly updates to your inbox.</p>
         <div class="flex flex-col gap-2">
            <Button variant="secondary" size="sm" class="w-full !bg-black !text-white !rounded-lg">Sign up</Button>
         </div>
@@ -70,10 +67,13 @@
     <!-- Bottom -->
     <div class="pt-8 border-t border-gray-100 flex flex-col md:flex-row justify-between items-center gap-4">
       <div class="flex items-center gap-2">
-         <div class="w-6 h-6 bg-primary-600 rounded flex items-center justify-center text-white">
-            <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"></path></svg>
-         </div>
-         <span class="text-sm text-gray-500">© 2025 Bird</span>
+         <svg width="24" height="24" viewBox="0 0 68 68" fill="none" xmlns="http://www.w3.org/2000/svg">
+           <path d="M24.6991 11.9792C24.6991 18.595 19.3425 23.9583 12.7348 23.9583C6.12711 23.9583 0.770508 18.595 0.770508 11.9792C0.770508 5.36331 6.12711 0 12.7348 0C19.3425 0 24.6991 5.36331 24.6991 11.9792Z" fill="#0A0D12"/>
+           <path d="M24.6991 55.1042C24.6991 61.72 19.3425 67.0833 12.7348 67.0833C6.12711 67.0833 0.770508 61.72 0.770508 55.1042C0.770508 48.4883 6.12711 43.125 12.7348 43.125C19.3425 43.125 24.6991 48.4883 24.6991 55.1042Z" fill="#0A0D12"/>
+           <path d="M67.7704 11.9792C67.7704 18.595 62.4137 23.9583 55.8061 23.9583C49.1984 23.9583 43.8418 18.595 43.8418 11.9792C43.8418 5.36331 49.1984 0 55.8061 0C62.4137 0 67.7704 5.36331 67.7704 11.9792Z" fill="#0A0D12"/>
+           <path d="M67.7704 55.1042C67.7704 61.72 62.4137 67.0833 55.8061 67.0833C49.1984 67.0833 43.8418 61.72 43.8418 55.1042C43.8418 48.4883 49.1984 43.125 55.8061 43.125C62.4137 43.125 67.7704 48.4883 67.7704 55.1042Z" fill="#0A0D12"/>
+         </svg>
+         <span class="text-sm text-gray-500">© 2025 Patch</span>
       </div>
 
       <div class="flex flex-col md:flex-row items-center gap-4 text-xs text-gray-500 text-center md:text-right">
